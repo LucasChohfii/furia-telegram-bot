@@ -1,7 +1,7 @@
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, CallbackQueryHandler
 
-TOKEN = "7953398458:AAHSfgX8eU7F4HfBadFFCDoztzJTtxRqKMM"
+TOKEN = "SEU-TOKEN"
 
 PLAYER_DATA = {
     "fallen": {
