@@ -1,4 +1,4 @@
-# FURIA CS Bot
+# 🇧🇷 FURIA CS Bot
 
 Bot do Telegram para fãs do time FURIA de Counter-Strike, fornecendo informações sobre jogadores, próximos jogos e links para redes sociais.
 
@@ -57,7 +57,9 @@ python bot.py
 ⚠️ **IMPORTANTE**: O token do Telegram no código é apenas para exemplo e já foi revogado. Nunca compartilhe seu token real em repositórios públicos. Use variáveis de ambiente ou arquivos de configuração separados que não são enviados ao GitHub.
 
 
-# FURIA CS Bot
+
+
+# 🇺🇸 FURIA CS Bot
 
 A Telegram bot for FURIA Counter-Strike team fans, providing information about players, upcoming matches, and social media links.
 
